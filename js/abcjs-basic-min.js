@@ -1,1 +1,0 @@
-console.warn('Placeholder ABCJS — replace with real file for full offline use.');
